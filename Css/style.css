@@ -21,3 +21,15 @@
 .col-lg-8:hover img {
     transform: scale(1.05);
 }
+
+.rounded img {
+    border-radius: 25px;
+}
+
+.Remaining {
+    color: white;
+    padding: 8px 12px;
+    border-radius: 8px;
+    display: inline-block;
+    background-color: #a55238;
+}
