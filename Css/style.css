@@ -33,3 +33,11 @@
     display: inline-block;
     background-color: #a55238;
 }
+
+.img img {
+    border-radius: 30px;
+}
+
+.card-img-top {
+    border-radius: 25px;
+}
