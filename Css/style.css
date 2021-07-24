@@ -3,3 +3,21 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+.bg {
+    background-color: #FFB30E;
+}
+
+.starving {
+    font-size: 3rem;
+}
+
+.few-click {
+    color: #616161;
+    font-size: 2.0736rem;
+}
+
+
+.col-lg-8:hover img {
+    transform: scale(1.05);
+}
