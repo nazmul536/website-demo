@@ -41,3 +41,29 @@
 .card-img-top {
     border-radius: 25px;
 }
+
+.Discount {
+    background: linear-gradient(50deg, #fb3c00, #ffb800);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.live-tracking {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 85%;
+    background-color: white;
+    border-radius: 30px;
+    margin: auto;
+}
+
+.img-2 img {
+    height: 100px;
+    width: 100px;
+}
+
+.hr-vertical {
+    border-left: 2px solid #CFCFCF;
+}
