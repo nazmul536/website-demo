@@ -89,7 +89,16 @@
     padding: 8%;
 }
 
-.img-fluid {
-    height: 350px;
-    width: 100%;
+.Order {
+    font-size: 50px;
+}
+
+.fab {
+    font-size: 27px;
+    padding-right: 12px;
+    color: white;
+}
+
+.footer-section {
+    background-color: #212121;
 }
